@@ -1,17 +1,16 @@
 # Machine Learning & Statistics Module
-# Project by Simona Vasiliauskaite
+## Project by Simona Vasiliauskaite
 ## Analysis of Boston Housing Database
 
 In this assessment I will be using **Python** packages scipy, keras and jupyter notebook to describe and analyse the well-known Boston House Prices dataset. 
 
-In this respitory you'll find a [x] Jupyter Notebook called **BostonHousing.ipynb** which summarises the Boston House Prices dataset using descriptive analysis and plots.
+In this respitory you'll find a **Jupyter** Notebook called *BostonHousing.ipynb* which summarises the Boston House Prices dataset using descriptive analysis and plots.
 
 Within the same Jupyter Notebook you will also find an analysis of the relationship between the median house price and whether the house borders the river. Inferential statistics is used to analyse this section.
 
-
 * *Inferential statistics* use a random sample of data taken from a population to describe and make inferences about the population.
 
-The last part of the project is dedicated to using [x]Keras to create a neutral network that can predict the median house price based on the other variables in the dataset.
+The last part of the project is dedicated to using **Keras** to create a neutral network that can predict the median house price based on the other variables in the dataset.
 
 In this respitory there is also file called BostonHousing.py
 
