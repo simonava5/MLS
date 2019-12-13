@@ -1,6 +1,6 @@
 # Machine Learning & Statistics Module
-## Project by Simona Vasiliauskaite
-## Analysis of Boston Housing Database
+### Project by Simona Vasiliauskaite
+### Analysis of Boston Housing Database
 
 In this assessment I will be using **Python** packages scipy, keras and jupyter notebook to describe and analyse the well-known Boston House Prices dataset. 
 
